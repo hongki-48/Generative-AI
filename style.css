@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#result {
+  margin-top: 20px;
+}
+#swal2-html-container {
+  font-size: 13px;
+  line-height: 20px;
+  white-space: pre-line;
+  word-break: keep-all;
+}
+
+#generatedText {
+  white-space: break-spaces;
+  margin-bottom: 10px;
+}
